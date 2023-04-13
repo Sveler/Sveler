@@ -1,5 +1,2 @@
 - 👋 Hi, I’m @Sveler
-- 👀 I’m interested in C++, Python, HTML, CSS, and Javascript
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on alot of projects in the future
-- 📫 How to reach me: Z21 ✝#8506
+- 👀 I’m interested in C++, Python, HTML, CSS, and Javascript/Typescript
